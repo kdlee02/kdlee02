@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James
-- 👀 I’m interested in app development
+- 👀 I’m interested in web development, especially backend 
 - 🌱 I’m currently learning computer science as an undergrad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
